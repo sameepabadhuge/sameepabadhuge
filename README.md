@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sameepa Badhuge
+
 
 <h1 align="center">Hi 👋, I'm Sameepa Badhuge</h1>
 <h3 align="center">A Passionate about software development & Business Intelligence</h3>
